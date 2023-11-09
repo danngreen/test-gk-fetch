@@ -1,0 +1,42 @@
+[submodule "mdrivlib"]
+	path = mdrivlib
+	url = https://github.com/4ms/mdrivlib.git
+[submodule "lvgl"]
+	path = lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "lv_img_conv"]
+	path = lv_img_conv
+	url = https://github.com/lvgl/lv_img_conv.git
+[submodule "rapidyaml"]
+	path = rapidyaml
+	url = https://github.com/danngreen/rapidyaml.git
+[submodule "cpputil"]
+	path = cpputil
+	url = https://github.com/4ms/cpputil.git
+[submodule "mp1-boot"]
+	path = mp1-boot
+	url = https://github.com/4ms/mp1-boot.git
+[submodule "AudibleInstruments"]
+	path = AudibleInstruments
+	url = https://github.com/VCVRack/AudibleInstruments.git
+[submodule "Befaco"]
+	path = Befaco
+	url = https://github.com/hemmer/Befaco.git
+[submodule "simde"]
+	path = simde
+	url = https://github.com/simd-everywhere/simde.git
+[submodule "hetrickcv"]
+	path = hetrickcv
+	url = https://github.com/mhetrick/hetrickcv.git
+[submodule "jansson"]
+	path = jansson
+	url = https://github.com/4ms/jansson.git
+[submodule "esp-serial-flasher"]
+	path = esp-serial-flasher
+	url = https://github.com/4ms/esp-serial-flasher.git
+[submodule "lockfree"]
+	path = lockfree
+	url = https://github.com/DNedic/lockfree.git
+[submodule "flatbuffers"]
+	path = flatbuffers
+	url = https://github.com/google/flatbuffers.git
